@@ -1,0 +1,27 @@
+.heading {
+    width:100%;
+    box-shadow: 5px 5px 10px burlywood;
+    margin: 0px;
+    font-size: 23px;
+}
+
+#footer {
+    position: fixed;
+    color: bisque;
+    width: 100%;
+    bottom: 0;
+    background-color: blue;
+    text-align: center;
+    line-height: 3;
+}
+
+.info {
+    font-size: 16px;
+    color: whitesmoke;
+}
+
+canvas {
+    border: 5px solid black;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+}
